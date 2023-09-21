@@ -2,7 +2,7 @@
 
 Welcome to the Random Quotes Generator, a React-based web application that fetches and displays random pieces of advice from the Advice Slip JSON API. In this project, I've learned a lot about React and API data fetching, and I'm excited to share it with you.
 
-![App Screenshot](screenshot.png) <!-- Add a screenshot of your app here (if available) -->
+
 
 ## Project Overview
 
